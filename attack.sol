@@ -21,5 +21,6 @@ contract Attack {
         sunVault.withdrawAll();
     }
 
+    sunToken.contract();
     // OTHER ATTACK FUNCTIONS .....
-} bbb
+} 
